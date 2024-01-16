@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">M08Andres</string>
+    <string name="Name">Nom</string>
+    <string name="Surname">Cognom</string>
+    <string name="City">Ciutat</string>
+</resources>
